@@ -1,0 +1,5 @@
+D:\ASP.NET\program\vs2010\Lianxi\ItcastCaterModel\bin\Debug\ItcastCaterModel.dll
+D:\ASP.NET\program\vs2010\Lianxi\ItcastCaterModel\bin\Debug\ItcastCaterModel.pdb
+D:\ASP.NET\program\vs2010\Lianxi\ItcastCaterModel\obj\Debug\ResolveAssemblyReference.cache
+D:\ASP.NET\program\vs2010\Lianxi\ItcastCaterModel\obj\Debug\ItcastCaterModel.dll
+D:\ASP.NET\program\vs2010\Lianxi\ItcastCaterModel\obj\Debug\ItcastCaterModel.pdb

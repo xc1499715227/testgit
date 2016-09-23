@@ -1,0 +1,10 @@
+D:\ASP.NET\program\vs2010\Lianxi\ItcastcaterBLL\bin\Debug\ItcastcaterBLL.dll
+D:\ASP.NET\program\vs2010\Lianxi\ItcastcaterBLL\bin\Debug\ItcastcaterBLL.pdb
+D:\ASP.NET\program\vs2010\Lianxi\ItcastcaterBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\ASP.NET\program\vs2010\Lianxi\ItcastcaterBLL\obj\Debug\ItcastcaterBLL.dll
+D:\ASP.NET\program\vs2010\Lianxi\ItcastcaterBLL\obj\Debug\ItcastcaterBLL.pdb
+D:\ASP.NET\program\vs2010\Lianxi\ItcastcaterBLL\bin\Debug\ItcastcaterDAL.dll
+D:\ASP.NET\program\vs2010\Lianxi\ItcastcaterBLL\bin\Debug\ItcastCaterModel.dll
+D:\ASP.NET\program\vs2010\Lianxi\ItcastcaterBLL\bin\Debug\System.Data.SQLite.dll
+D:\ASP.NET\program\vs2010\Lianxi\ItcastcaterBLL\bin\Debug\ItcastcaterDAL.pdb
+D:\ASP.NET\program\vs2010\Lianxi\ItcastcaterBLL\bin\Debug\ItcastCaterModel.pdb
